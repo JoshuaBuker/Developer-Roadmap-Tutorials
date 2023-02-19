@@ -56,7 +56,7 @@ This repository will contain my journey into learning key developer concepts. I 
  - https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org
     
 ### Flask ❌
- - https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org
+ - https://www.youtube.com/watch?v=yBDHkveJUf4&ab_channel=freeCodeCamp.org
  
  
  
