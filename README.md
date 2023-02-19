@@ -2,6 +2,8 @@
 
 This repository will contain my journey into learning key developer concepts. I will mark them with a green check when finished to track my progress.
 
+If you find this and wish to learn alongside me. I will be providing notes for each topic in their respective folder. 
+
 ## RoadMap
 
 ### Design Patterns ❌
