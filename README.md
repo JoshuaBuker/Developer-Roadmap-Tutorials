@@ -22,40 +22,40 @@ This repository will contain my journey into learning key developer concepts. I 
 ### Agile Development ❌
  - https://www.youtube.com/watch?v=QLvBK9stdoM&ab_channel=ForrestKnight
  
- ### SQL Databases ❌
+### SQL Databases ❌
  - https://www.youtube.com/watch?v=HXV3zeQKqGY&ab_channel=freeCodeCamp.org
   
- ### Fullstack Web Development ❌
+### Fullstack Web Development ❌
  - https://www.youtube.com/watch?v=nu_pCVPKzTk&ab_channel=freeCodeCamp.org
    
- ### Alogithms & Data Structures ❌
+### Alogithms & Data Structures ❌
  - https://www.youtube.com/watch?v=8hly31xKli0&ab_channel=freeCodeCamp.org
  
-  ### ReactJS ❌
+### ReactJS ❌
  - https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=70s&ab_channel=freeCodeCamp.org
   
-  ### Android App Dev ❌
+### Android App Dev ❌
  - https://www.youtube.com/watch?v=fis26HvvDII&ab_channel=freeCodeCamp.org
    
-  ### Computer Networking ❌
+### Computer Networking ❌
  - https://www.youtube.com/watch?v=qiQR5rTSshw&ab_channel=freeCodeCamp.org
   
-  ### Web Applications ❌
+### Web Applications ❌
  - https://www.youtube.com/watch?v=xr6uZDRTna0&ab_channel=freeCodeCamp.org
  
-   ### Spring Boot ❌
+### Spring Boot ❌
  - https://www.youtube.com/watch?v=vtPkZShrvXQ&t=81s&ab_channel=freeCodeCamp.org
   
-   ### APIs ❌
+### APIs ❌
  - https://www.youtube.com/watch?v=WXsD0ZgxjRw&t=11s&ab_channel=freeCodeCamp.org
   
-   ### Linux OS ❌
+### Linux OS ❌
  - https://www.youtube.com/watch?v=ROjZy1WbCIA&ab_channel=freeCodeCamp.org
    
-   ### Data Science w/ Python ❌
+### Data Science w/ Python ❌
  - https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org
     
-   ### Flask ❌
+### Flask ❌
  - https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org
  
  
