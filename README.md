@@ -12,16 +12,16 @@ If you find this and wish to learn alongside me. I will be providing notes for e
 ### Angular ❌
  - https://www.youtube.com/watch?v=k5E2AVpwsko&ab_channel=ProgrammingwithMosh
 
-### C# / .Net ❌
+### C# / .Net ✔️
  - https://www.youtube.com/watch?v=gfkTfcpWqAY&t=84s&ab_channel=ProgrammingwithMosh
 
-### Unit Testing ❌
+### Unit Testing ✔️
  - https://www.youtube.com/watch?v=HYrXogLj7vg&ab_channel=ProgrammingwithMosh
 
 ### Dockers ❌
  - https://www.youtube.com/watch?v=pTFZFxd4hOI&ab_channel=ProgrammingwithMosh
  
-### Agile Development ❌
+### Agile Development ✔️
  - https://www.youtube.com/watch?v=QLvBK9stdoM&ab_channel=ForrestKnight
  
 ### SQL Databases ❌
