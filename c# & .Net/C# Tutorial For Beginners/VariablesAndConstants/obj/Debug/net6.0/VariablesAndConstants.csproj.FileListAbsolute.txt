@@ -1,0 +1,15 @@
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\bin\Debug\net6.0\VariablesAndConstants.exe
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\bin\Debug\net6.0\VariablesAndConstants.deps.json
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\bin\Debug\net6.0\VariablesAndConstants.runtimeconfig.json
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\bin\Debug\net6.0\VariablesAndConstants.dll
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\bin\Debug\net6.0\VariablesAndConstants.pdb
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\obj\Debug\net6.0\VariablesAndConstants.csproj.AssemblyReference.cache
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\obj\Debug\net6.0\VariablesAndConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\obj\Debug\net6.0\VariablesAndConstants.AssemblyInfoInputs.cache
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\obj\Debug\net6.0\VariablesAndConstants.AssemblyInfo.cs
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\obj\Debug\net6.0\VariablesAndConstants.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\obj\Debug\net6.0\VariablesAndConstants.dll
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\obj\Debug\net6.0\refint\VariablesAndConstants.dll
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\obj\Debug\net6.0\VariablesAndConstants.pdb
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\obj\Debug\net6.0\VariablesAndConstants.genruntimeconfig.cache
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\VariablesAndConstants\obj\Debug\net6.0\ref\VariablesAndConstants.dll

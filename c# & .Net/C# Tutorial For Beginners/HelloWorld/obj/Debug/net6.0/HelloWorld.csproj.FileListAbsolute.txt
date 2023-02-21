@@ -1,0 +1,15 @@
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Joshua\Documents\GitHub\Developer-Roadmap-Tutorials\c# & .Net\C# Tutorial For Beginners\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

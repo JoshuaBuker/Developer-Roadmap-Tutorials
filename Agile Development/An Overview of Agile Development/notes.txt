@@ -1,0 +1,17 @@
+================ AGILE DEVELOPMENT ================
+
+Relating to or denoting a method of project managment, used especially for software development, that is 
+characterized by the division of tasks into short phases of work and frequent reassessment and adaptation of plans.
+
+===================================================
+
+* This refers to the methodollogy of splitting up large tasks into small sections, that are then completed one at a time
+  in what is known as a "sprint". These time periods usually last around 3 to 4 weeks.
+
+* After each sprint is complete, you are able to deliver working software. By having working software, you can then
+  reassess the plan and to better complete the upcoming sprint and in the long-term, the project as a whole.
+
+* When using the Agile methodollogy, you should start by making a small, functioning program that emcompasses your final projects
+  goals, but make it barebones. Then you breakup all the features into tasks, and bust them out one at a time. This means that
+  after every sprint, you will be adding a working feature, to an already working software base, therefore making it more advanced
+  and closer to the desired outcome. 
