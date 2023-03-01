@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\c# & .Net",
-    "\\c# & .Net\\C# Tutorial For Beginners"
+    "\\c# & .Net\\C# Tutorial For Beginners",
+    "\\c# & .Net\\C# Tutorial For Beginners\\TestNinja",
+    "\\c# & .Net\\C# Tutorial For Beginners\\TestNinja\\TestNinja",
+    "\\c# & .Net\\C# Tutorial For Beginners\\TestNinja\\TestNinja\\Fundamentals"
   ],
-  "SelectedNode": "\\c# & .Net\\C# Tutorial For Beginners",
+  "SelectedNode": "\\c# & .Net\\C# Tutorial For Beginners\\TestNinja\\TestNinja\\Fundamentals\\Reservation.cs",
   "PreviewInSolutionExplorer": false
 }
